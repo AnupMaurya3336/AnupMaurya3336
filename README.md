@@ -2,9 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
- ## 🔥 Streak Stats
+## 📊 GitHub Stats
 
-<p align="center"><a href="https://github.com/zul-m/zul-m"><img src="http://github-readme-streak-stats.herokuapp.com?user=zul-m&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="Zul-M's GitHub streak" /></a></p>
+<p align="center"><a href="https://github.com/zul-m/zul-m"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zul-m&count_private=true&show_icons=true&theme=github_dark&cache_seconds=1800&custom_title=GitHub%20Stats" alt="Zul-M's GitHub stats" /></a>
+
+<p align="center"><a href="https://github.com/zul-m/zul-m"><img align="center" alt="Zul-M's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zul-m&theme=github-dark&custom_title=GitHub%20Contribution%20Graph" /></a>
+
 
 
 
