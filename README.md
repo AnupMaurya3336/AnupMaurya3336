@@ -14,6 +14,6 @@
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/anup_maurya?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/anup_maurya?theme=light&font=Nunito&ext=heatmap" />  
 </p>
 
