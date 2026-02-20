@@ -9,9 +9,9 @@
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Anup" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Anup" height="140" width="140" /></a>
+      <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Anup" height="150" width="150" /></a>
   <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Anup" height="160" width="160" /></a>
-    <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Anup" height="160" width="160" /></a>
 
 </p>
 <p align="center">
