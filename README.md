@@ -1,4 +1,4 @@
-### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Maurya.
+<img width="900" height="1602" alt="image" src="https://github.com/user-attachments/assets/a28e3fbf-cada-4770-a893-38e2cf2adbcc" />### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Maurya.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -12,6 +12,7 @@
   <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Anup" height="140" width="140" /></a>
       <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Anup" height="150" width="150" /></a>
   <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Anup" height="160" width="160" /></a>
+  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/3.gif" alt="Anup" height="160" width="160" /></a>
 
 </p>
 <p align="center">
