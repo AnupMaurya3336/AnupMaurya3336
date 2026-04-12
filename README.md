@@ -1,4 +1,4 @@
-### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Maurya.
+<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/7c0efcba-06ef-4722-8004-b99b16705173" />### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Maurya.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -9,10 +9,11 @@
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Anup" height="140" width="140" /></a>
-      <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Anup" height="150" width="150" /></a>
-  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Anup" height="160" width="160" /></a>
-  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/3.gif" alt="Anup" height="160" width="160" /></a>
+  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Anup" height="130" width="130" /></a>
+      <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Anup" height="135" width="135" /></a>
+  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Anup" height="140" width="140" /></a>
+  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/3.gif" alt="Anup" height="145" width="145" /></a>
+  <a href="https://leetcode.com/u/anup_maurya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="Anup" height="150" width="150" /></a>
 
 </p>
 <p align="center">
