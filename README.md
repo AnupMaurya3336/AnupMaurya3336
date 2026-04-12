@@ -1,4 +1,4 @@
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/7c0efcba-06ef-4722-8004-b99b16705173" />### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Maurya.
+>### <img src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif" width="50px"> I am Anup Maurya.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
